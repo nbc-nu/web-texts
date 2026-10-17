@@ -1,0 +1,7 @@
+Wellcome to N.U. App Studio!
+
+Click in New Project to start
+making your apps!
+
+INSTALL NGU.EXE to execute your
+.ngu files!
